@@ -1,6 +1,6 @@
 # Stop-Watch App
 ## Description:
-Created the stop-watch app using HTML CSS and Javascript
+Created the stop-watch application using HTML CSS and Javascript
 ***
 ## feature:
 - start button
